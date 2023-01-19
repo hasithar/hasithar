@@ -2,7 +2,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hasithar)](https://git.io/streak-stats)
 
-[![Hasitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasithar)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasithar)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=hasithar)
 
