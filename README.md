@@ -2,6 +2,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hasithar)](https://git.io/streak-stats)
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 <!--
 **hasithar/hasithar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
